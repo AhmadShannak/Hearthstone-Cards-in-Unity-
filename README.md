@@ -34,7 +34,8 @@ For those who are interested in making this from zero and how i did it ,this sec
   6- Change it's text to 10 and align to be on the top of the red part of the **Card** , and choose the font you want (in my case i used the font from the **Font** folder above ) ,also change the color to white , and add an **Outline (Script)** from the **Add Component** then set the **Effect Distance** to what you want ( in my case X = 1.35 , Y = -2).
   
   7- Repeat **Step 6** for the name , attack points (Yellow part of the card) ,description , and mana (Blue part of the card) .
-  - On finishing **Step 7** you are supposed to end up with something like this 
+  - On finishing **Step 7** you are supposed to end up with something like this:
+  ![ScreenShot]()
   
   
   
