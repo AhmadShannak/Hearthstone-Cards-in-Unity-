@@ -18,15 +18,10 @@ For those who are interested in making this from zero and how i did it ,this sec
   3- Create another **Canvas** inside of the **Main Canvas** ,and name it **Card**.
   
   4- Now lets play around with our **Card** (Card Canvas).
-  
   - Start By deleting every component on the **Card** leaving only the **Rect Transform** component.
-  
   - Add a **Canvas Renderer** from the **Add Component**.
-   
   - Now create an **Image** inside of the **Card** , Name it **Card Template**.
-   
   - From the **Image (Script)** Press **Source Image** and link it to the **Card** sprite that exist in the sprites folder(in case you want to use the same card image that i used).
-  
   - Change the **Scale** of the image to fit the size you are looking for (in my case 2 from the X-Axis and 3 from the Y-Axis).
   
   5- Right click on the **Card** and add a **Text** from the **UI** tab then name it **HP**.
