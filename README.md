@@ -3,6 +3,15 @@
 ## Preview
 This section provide an overview of this project.
 
+In this project i cloned a "Hearthstone" Card, and created a code that allow me to create an AssetMenu named Card .
+this will help instead of creating multi cards each with its own prefab to create only one card prefab linked to any card i want.
+
+So if you add the **Card** Scripts that exist in the **Scripts** folder then you right click you will see the option bellow:
+![](Screenshot_20)
+
+This will help with optimizing the game as said above , also the Tutorial bellow will help you create a UI Card.
+
+
 ## Tutorial
 For those who are interested in making this from zero and how i did it ,this section is for you.
 Please note that am only covering UI Card creation here and not really covering the code part. 
