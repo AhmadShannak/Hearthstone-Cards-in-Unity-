@@ -38,8 +38,9 @@ Please note that am only covering UI Card creation here and not really covering 
   - ReScale the image to fit in the **Card Template** Gap , then click on it in the **Hierachy** and pull it to be above the **Card Tempalte** ; in order to sort the layers.
   - Now click on **Add Components** and add **Mask (Script)** , then uncheck **Show Mask Graphic** .
   - Create another **UI Image** as a child for the Image we created above ,and link it with **Zekken** image that exist in the **Sprites** folder.
-  10- The final product should look like this 
-  ![](Screenshot_19)
+  
+  10- The final product should look like this:
+  ![](Screenshot_19.png)
   
   
   
