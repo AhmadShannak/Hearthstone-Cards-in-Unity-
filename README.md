@@ -54,6 +54,11 @@ Please note that am only covering UI Card creation here and not really covering 
   10- The final product should look something similar to this:
   ![](Screenshot_19.png)
   
+  ## Disclaimer
+  - All the **Sprites** used in this projects are made by **Brackeys** you can find his channel on **Youtube** .
+  
+
+  
   
   
   
