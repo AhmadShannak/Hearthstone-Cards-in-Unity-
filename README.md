@@ -7,10 +7,11 @@ In this project i cloned a "Hearthstone" Card, and created a code that allow me 
 this will help instead of creating multi cards each with its own prefab to create only one card prefab linked to any card i want.
 
 So if you add the **Card** Scripts that exist in the **Scripts** folder then you right click you will see the option bellow:
-![](Screenshot_20)
+![](Screenshot_20.png)
 
 Meanwhile the **Display** Script is the one responsable to show the card details in run time (Linking the Card as a UI with the card as a file ) , as shown bellow:
-![](Screenshot_21)
+![](Screenshot_21.png)
+
 This will help with optimizing the game as said above , also the Tutorial bellow will help you create a UI Card.
 
 
