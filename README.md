@@ -35,7 +35,7 @@ For those who are interested in making this from zero and how i did it ,this sec
   
   7- Repeat **Step 6** for the name , attack points (Yellow part of the card) ,description , and mana (Blue part of the card) .
   - On finishing **Step 7** you are supposed to end up with something like this:
-  ![ScreenShot]()
+  ![](Screenshot_18.png)
   
   
   
