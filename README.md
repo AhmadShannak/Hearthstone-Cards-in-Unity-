@@ -6,7 +6,7 @@ This section provide an overview of this project.
 In this project i cloned a "Hearthstone" Card, and created a code that allow me to create an AssetMenu named Card .
 this will help instead of creating multi cards each with its own prefab to create only one card prefab linked to any card i want.
 
-So if you add the **Card** Scripts that exist in the **Scripts** folder then you right click you will see the option bellow:
+So if you add the **Card** Script that exist in the **Scripts** folder then you right click you will see the option bellow , that will help you create card details and link them to a file:
 ![](Screenshot_20.png)
 
 Meanwhile the **Display** Script is the one responsable to show the card details in run time (Linking the Card as a UI with the card as a file ) , as shown bellow:
