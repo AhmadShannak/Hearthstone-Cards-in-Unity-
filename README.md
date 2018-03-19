@@ -9,7 +9,8 @@ this will help instead of creating multi cards each with its own prefab to creat
 So if you add the **Card** Scripts that exist in the **Scripts** folder then you right click you will see the option bellow:
 ![](Screenshot_20)
 
-Meanwhile the **Display** Script is the one responsable to show the card details in run time (Linking the Card as a UI with the card as a file ).
+Meanwhile the **Display** Script is the one responsable to show the card details in run time (Linking the Card as a UI with the card as a file ) , as shown bellow:
+![](Screenshot_21)
 This will help with optimizing the game as said above , also the Tutorial bellow will help you create a UI Card.
 
 
