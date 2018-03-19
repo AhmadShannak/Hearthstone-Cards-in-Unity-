@@ -37,5 +37,12 @@ For those who are interested in making this from zero and how i did it ,this sec
   - On finishing **Step 7** you are supposed to end up with something like this:
   ![](Screenshot_18.png)
   
+  9- Now for the Card image we are going to use a simple trick :
+  - Start by right clicking on the **Card** create a **UI Image** then click on **Image (Script)** and link the **Source Image** with the **Card Image Mask** that exist in the **Sprites** folder.
+  - ReScale the image to fit in the **Card Template** Gap , then click on it in the **Hierachy** and pull it to be above the **Card Tempalte** ; in order to sort the layers.
+  - Now click on **Add Components** and add **Mask (Script)** , then uncheck **Show Mask Graphic** .
+  - Create another **UI Image** as a child for the Image we created above ,and link it with **Zekken** image that exist in the **Sprites** folder.
+  
+  
   
   
